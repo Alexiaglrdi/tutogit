@@ -13,3 +13,4 @@ def recherchedicho(x,L) :
 
 L=[2,6,7,8,9,12,15,18,19]
 print(recherchedicho(12,L))
+print(recherchedicho(1,L))
